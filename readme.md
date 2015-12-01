@@ -1,11 +1,10 @@
 # cloud-to-butt-mozilla
 
-Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
-
+Chrome extension that replaces occurrences of 'conference' with 'journal', instantly transforming any given academic conference into a journal.
 
 ## Installing
 
-Download [CloudToButt.xpi](https://github.com/DaveRandom/cloud-to-butt-mozilla/blob/master/CloudToButt.xpi?raw=true)
+Download [ConferenceToJournal.xpi](https://github.com/jvilk/conference-to-journal-mozilla/blob/master/ConferenceToJournal.xpi?raw=true)
 
 
 ## Building
