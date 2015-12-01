@@ -1,4 +1,4 @@
-# cloud-to-butt-mozilla
+# conference-to-journal-mozilla
 
 Firefox extension that replaces occurrences of 'conference' with 'journal', instantly transforming any given academic conference into a journal.
 
